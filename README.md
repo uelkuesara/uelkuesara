@@ -1,16 +1,18 @@
-## Hi there 👋
+
 
 <!--
 **uelkuesara/uelkuesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently working on my own AI-powered fitness app and I'm actively looking for data scientists to collaborate with. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: My AI Fitness App
+- 🌱 I’m currently learning: DART
+- 👯 I’m looking to collaborate on: Projects with data scientists
+- 🤔 I’m looking for help with: Data analysis and machine learning integration
+- 💬 Ask me about: Unity, FlutterFlow, and app development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uelkue-s-sarac-765aa6202/)
+- ⚡ Fun fact: I originally come from a Finance background!
+
+Feel free to reach out if you have any questions or if you're interested in collaborating!
+
